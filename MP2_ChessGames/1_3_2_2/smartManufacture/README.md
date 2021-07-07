@@ -1,0 +1,1 @@
+It runs the A* search first and then UCS search

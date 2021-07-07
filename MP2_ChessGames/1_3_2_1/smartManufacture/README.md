@@ -1,0 +1,1 @@
+Change the colNumber and rowNumber in the factoryReader, and we can simulate with different N.
